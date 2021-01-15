@@ -22,4 +22,4 @@ The following is a screenshot of the Projects page of the portfolio application.
 
 Direct link to repository:  https://github.com/jtoth7824/portfolio
 
-Direct link to Book/Cinema Library webpage:  https://jtoth7824.github.io/portfolio/
+Direct link to Portfolio webpage:  https://jtoth7824.github.io/portfolio/
