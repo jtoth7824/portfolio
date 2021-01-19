@@ -18,6 +18,12 @@ The following is a screenshot of the Projects page of the portfolio application.
   <img src="./assets/images/Projects.png" alt="Projects page of the portfolio application screenshot">
 </p>
 
+The following is a screenshot of the Resume page with embedded PDF.
+
+<p align="center">
+  <img src="./assets/images/Resume.png" alt="Resume page of the portfolio application screenshot">
+</p>
+
 ## Setup/Installation Requirements
 
 Direct link to repository:  https://github.com/jtoth7824/portfolio
