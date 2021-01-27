@@ -98,13 +98,6 @@ body {
     max-height: 260px;
 }
 
-/* styling for pictures on Portfolio page to make then the whole size of card */
-.porfolioPic {
-    max-width: 100%;
-    height: auto;
-    max-height: 260px;
-}
-
 /* styling for the footer */
 .myFooter {
         padding: 5px 0;
@@ -114,4 +107,10 @@ body {
 .buttonMargin {
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.cardBodyBorder {
+    border-top-width: 1px !important;
+    border-top-style: solid !important;
+    border-top-color: gray;
 }
